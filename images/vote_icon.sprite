@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SpriteFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" CssFileName="../images" ImageName="vote_icon" IsPhone="false" SpriteImgFileType="Png" xmlns="CssSprite">
+  <SpriteList>
+    <Sprite Path="vote_sight_bead_red.png" LocationX="0" LocationY="0" />
+    <Sprite Path="vote_magnifier.png" LocationX="0" LocationY="15" />
+    <Sprite Path="vote_sight_bead_green.png" LocationX="0" LocationY="36" />
+    <Sprite Path="vote_blade.png" LocationX="0" LocationY="61" />
+    <Sprite Path="vote_close.png" LocationX="0" LocationY="80" />
+    <Sprite Path="vote_menu.png" LocationX="0" LocationY="118" />
+    <Sprite Path="vote_circle_button.png" LocationX="0" LocationY="159" />
+  </SpriteList>
+</SpriteFile>
